@@ -16,11 +16,6 @@
 		<string>Shotcut</string>
 		<key>pkginfo</key>
 		<dict>
-			<key>catalogs</key>
-			<array>
-				<string>testing</string>
-				<string>autopkg</string>
-			</array>
 			<key>icon</key>
 			<string>shotcut.png</string>
 			<key>category</key>
