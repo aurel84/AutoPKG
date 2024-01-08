@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>Identifier</key>
-	<string>local.munki.GIMP_intel_rh</string>
+	<string>gimp_x86.john.hawkins.override.munki.recipe</string>
 	<key>Input</key>
 	<dict>
 		<key>ARCH</key>
